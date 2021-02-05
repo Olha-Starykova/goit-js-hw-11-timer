@@ -3,8 +3,8 @@ body {
   height: 100%;
 }
 body {
-  background: #0f3854;
-  background: radial-gradient(ellipse at center, #0a2e38 0%, #000000 70%);
+  background: #540f39;
+  background: radial-gradient(ellipse at center, #6b0d6b 0%, #000000 70%);
   background-size: 100%;
 }
 span {
@@ -13,14 +13,14 @@ span {
 }
 .timer {
   font-family: ‘Share Tech Mono’, monospace;
-  color: #ffffff;
+  color: #110101;
   text-align: center;
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  color: #daf6ff;
-  text-shadow: 0 0 20px rgba(10, 175, 230, 1), 0 0 20px rgba(10, 175, 230, 0);
+  color: #84a021;
+  text-shadow: 0 0 20px rgb(201, 108, 154), 0 0 20px rgba(236, 212, 224, 0);
 }
 .field {
   display: inline-flex;
